@@ -1,3 +1,1 @@
-# Image-seg
-# Image-seg
-# Image-seg
+# Image-segmentation using UNet and DDUNet in pytorch
